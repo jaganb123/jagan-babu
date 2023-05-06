@@ -1,0 +1,39 @@
+body {
+    background-color: #8294C4;
+}
+
+.navbar {
+    background-color: #8294C4;
+}
+
+.image {
+    width: 30%;
+}
+
+.landing-page {
+    background-color: #ACB1D6; 
+}
+
+#journey {
+    background-color: #DBDFEA;
+}
+
+.text-highlight {
+    font-weight: bold;
+    font-style: italic;
+}
+.text-highlight-career {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.career-img-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+.career-img{
+    padding: ;
+}
