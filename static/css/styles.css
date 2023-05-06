@@ -1,9 +1,10 @@
 body {
-    background-color: #8294C4;
+    background-color: #F9F7F7;
+    margin: 0;
 }
 
 .navbar {
-    background-color: #8294C4;
+    background-color: #DBE2EF;
 }
 
 .image {
@@ -11,11 +12,11 @@ body {
 }
 
 .landing-page {
-    background-color: #ACB1D6; 
+    background-color: #3F72AF; 
 }
 
 #journey {
-    background-color: #DBDFEA;
+    background-color: #F9F7F7;
 }
 
 .text-highlight {
@@ -34,6 +35,18 @@ body {
     align-items: center;
     height: 200px;
 }
-.career-img{
-    padding: ;
+
+#technical-skills {
+    background-color: #112D4E;
+}
+.svg-img {
+    display: flex;
+    height: 200px;
+    width: 250px;
+    margin: 0 auto;
+    
+}
+
+.svg-img img {
+    margin: auto;
 }
